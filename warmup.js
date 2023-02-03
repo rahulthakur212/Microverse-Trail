@@ -16,4 +16,4 @@ let result = 0;
     {
         return console.log("Bon Appetit");
     }
-    go
+//
